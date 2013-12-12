@@ -1,0 +1,4 @@
+rublecoin
+=========
+
+Cryptocurrency coin
